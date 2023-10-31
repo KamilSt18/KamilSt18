@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">, I'm Diz_zy</h1>
 
-<h3 align="center">From an early age I was interested in new technologies. I like to learn on my own, getting my knowledge from books and the Internet. I am not afraid of challenges, I like to help others. I am characterized by conscientiousness and diligence, I always strive to solve any problem.</h3>
+<h3 align="center">Since a young age, I've had a keen interest in technology and I'm a self-driven learner, often using online resources to expand my knowledge. I thrive on challenges and enjoy assisting others by finding innovative solutions to problems.</h3>
 
 - 📫 How to reach me **kamilst18@gmail.com**
 
